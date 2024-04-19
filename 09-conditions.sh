@@ -9,3 +9,5 @@ else
 echo "Given number $NUMBER IS LESS THAN 10"
 
 fi
+
+#-gt, -lt, -eq, -ge, -le
